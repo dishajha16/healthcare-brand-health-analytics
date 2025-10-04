@@ -1,6 +1,6 @@
 # 🧠 Healthcare Brand Health & Sentiment Analytics
 
-A complete end-to-end data science project inspired by **ZoomRx**'s analytics approach — combining NLP, marketing insights, and data visualization to measure **drug brand health**, **patient sentiment**, and **marketing effectiveness**.
+A complete end-to-end data science project — combining NLP, marketing insights, and data visualization to measure **drug brand health**, **patient sentiment**, and **marketing effectiveness**.
 
 ---
 
