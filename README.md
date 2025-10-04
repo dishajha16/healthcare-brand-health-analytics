@@ -16,7 +16,3 @@ It integrates:
 - ✅ SHAP & word-cloud explainability
 - ✅ Visualization dashboards (brand health, sentiment, top keywords)
 
----
-
-## 🧩 Project Architecture
-
