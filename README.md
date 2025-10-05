@@ -7,7 +7,7 @@ A complete end-to-end data analytics project — combining NLP, marketing insigh
 ## 📊 Overview
 
 Pharma companies invest millions in digital & traditional marketing campaigns.  
-This project analyzes **patient reviews**, **sentiment patterns**, and **drug effectiveness** data to simulate a *ZoomRx-style brand health tracker*.
+This project analyzes **patient reviews**, **sentiment patterns**, and **drug effectiveness** data to simulate a health tracker.
 
 It integrates:
 - ✅ Sentiment analysis (VADER + NLP)
