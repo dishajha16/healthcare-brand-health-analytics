@@ -1,6 +1,6 @@
 # 🧠 Healthcare Brand drug data & Sentiment Analytics
 
-A complete end-to-end data science project — combining NLP, marketing insights, and data visualization to measure **drug brand health**, **patient sentiment**, and **marketing effectiveness**.
+A complete end-to-end data analytics project — combining NLP, marketing insights, and data visualization to measure **drug brand health**, **patient sentiment**, and **marketing effectiveness**.
 
 ---
 
